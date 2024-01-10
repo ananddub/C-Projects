@@ -1,0 +1,1 @@
+#include<stdio.h>#include<conio.h>typedef struct test        {        int a;        }test;void point(test*);void main()        {        test val[199];        val[0].a=10;        printf("%d\n",val[0]->a);        point(val);        }void point(test*val)        {        printf("%d",val->a);        }

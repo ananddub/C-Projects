@@ -1,0 +1,1 @@
+#include<krishna.h>void main()        {        char  *ptr=(char*)malloc(10);        printf("%x",ptr);        ptr=(char*)realloc(ptr,110);        printf("\n%x",ptr);        }
