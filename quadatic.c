@@ -1,0 +1,1 @@
+#include<stdio.h>#include<conio.h>#include<string.h>//x=2xpow(2)−4x−6=0void powr(char*);// voidvoid main()        {        char qu[100]="pow(2x,2)+4x+6=0";x        }

@@ -1,0 +1,1 @@
+#include<stdio.h>#include<conio.h>void curdata(char*,char*);void main()        {        printf("hello world");        }void curdata()        {        }
